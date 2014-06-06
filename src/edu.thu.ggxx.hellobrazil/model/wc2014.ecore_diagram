@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_fWH0MOscEeORaLSloIt-Mg" type="Ecore" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_faq9AOscEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_faq9AuscEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_faq9A-scEeORaLSloIt-Mg" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_faq9BOscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_faq9BescEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_faq9BuscEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_faq9B-scEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_faq9COscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_faq9CescEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_faq9CuscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_faq9C-scEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//WorldCup"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_faq9AescEeORaLSloIt-Mg" x="70"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_farkEOscEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_farkEuscEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_farkE-scEeORaLSloIt-Mg" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_faxqsOscEeORaLSloIt-Mg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Team/Country"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_faxqsescEeORaLSloIt-Mg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_8nL6gOscEeORaLSloIt-Mg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Team/Flag"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_8nL6gescEeORaLSloIt-Mg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_farkFOscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_farkFescEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_farkFuscEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_farkF-scEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_farkGOscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_farkGescEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_farkGuscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_farkG-scEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//Team"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_farkEescEeORaLSloIt-Mg" x="105" y="370" width="506"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_farkHOscEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_farkHuscEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasLIOscEeORaLSloIt-Mg" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_fazf4OscEeORaLSloIt-Mg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Match/Id"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fazf4escEeORaLSloIt-Mg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="__QsTYOscEeORaLSloIt-Mg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Match/MatchDate"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__QsTYescEeORaLSloIt-Mg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_izP7AOsfEeORaLSloIt-Mg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Match/Scores"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_izP7AesfEeORaLSloIt-Mg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_4wdFEO2DEeOiVcLvxL3Kyg" type="3001">
+        <element xmi:type="ecore:EAttribute" href="wc2014.ecore#//Match/Stadium"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4wdFEe2DEeOiVcLvxL3Kyg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasLIescEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasLIuscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasLI-scEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasLJOscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasLJescEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasLJuscEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasLJ-scEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasLKOscEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//Match"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_farkHescEeORaLSloIt-Mg" x="370" y="135" width="232"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fasLKescEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fasLK-scEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasLLOscEeORaLSloIt-Mg" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasLLescEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasLLuscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasLL-scEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasLMOscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasLMescEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasyMOscEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasyMescEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasyMuscEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//GroupMatch"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fasLKuscEeORaLSloIt-Mg" x="385" y="-5"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fasyM-scEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fasyNescEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasyNuscEeORaLSloIt-Mg" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasyN-scEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasyOOscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasyOescEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasyOuscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasyO-scEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fasyPOscEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fasyPescEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fasyPuscEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//EliminationMatch"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fasyNOscEeORaLSloIt-Mg" x="636"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fasyP-scEeORaLSloIt-Mg" type="2001" fontName="微软雅黑">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fatZQOscEeORaLSloIt-Mg" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fatZQescEeORaLSloIt-Mg" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fatZQuscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fatZQ-scEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fatZROscEeORaLSloIt-Mg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fatZRescEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fatZRuscEeORaLSloIt-Mg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fatZR-scEeORaLSloIt-Mg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fatZSOscEeORaLSloIt-Mg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fatZSescEeORaLSloIt-Mg"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="wc2014.ecore#//Group"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fasyQOscEeORaLSloIt-Mg" x="100" y="145" width="226"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_fWH0MescEeORaLSloIt-Mg"/>
+  <element xmi:type="ecore:EPackage" href="wc2014.ecore#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_fa8CwOscEeORaLSloIt-Mg" type="4003" source="_faq9AOscEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fa8Cw-scEeORaLSloIt-Mg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fa8p0OscEeORaLSloIt-Mg" x="-11" y="-29"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fa8p0escEeORaLSloIt-Mg" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fa8p0uscEeORaLSloIt-Mg" x="-62" y="5"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fa8CwescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//WorldCup/teams"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fa8CwuscEeORaLSloIt-Mg" points="[-1, 1, -24, -312]$[-69, 165, -92, -148]$[21, 310, -2, -3]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbzlcuscEeORaLSloIt-Mg" id="(0.21348314606741572,0.9836065573770492)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbzlc-scEeORaLSloIt-Mg" id="(0.01383399209486166,0.038461538461538464)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fa938OscEeORaLSloIt-Mg" type="4003" source="_faq9AOscEeORaLSloIt-Mg" target="_farkHOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fa-fAOscEeORaLSloIt-Mg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fa-fAescEeORaLSloIt-Mg" x="-10" y="12"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fa-fAuscEeORaLSloIt-Mg" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fa-fA-scEeORaLSloIt-Mg" x="-16" y="-1"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fa938escEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//WorldCup/matches"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fa938uscEeORaLSloIt-Mg" points="[0, 0, -123, -60]$[123, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fby-YescEeORaLSloIt-Mg" id="(0.8314606741573034,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fby-YuscEeORaLSloIt-Mg" id="(0.24731182795698925,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fa_tIOscEeORaLSloIt-Mg" type="4003" source="_faq9AOscEeORaLSloIt-Mg" target="_fasyP-scEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fa_tI-scEeORaLSloIt-Mg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fa_tJOscEeORaLSloIt-Mg" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbAUMOscEeORaLSloIt-Mg" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbAUMescEeORaLSloIt-Mg" x="-6" y="9"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fa_tIescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//WorldCup/groups"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fa_tIuscEeORaLSloIt-Mg" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbyXVOscEeORaLSloIt-Mg" id="(0.4943820224719101,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fby-YOscEeORaLSloIt-Mg" id="(0.37610619469026546,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbEloOscEeORaLSloIt-Mg" type="4002" source="_farkEOscEeORaLSloIt-Mg" target="_fasyP-scEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbFMsOscEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbFMsescEeORaLSloIt-Mg" x="-3" y="8"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbFMsuscEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbFMs-scEeORaLSloIt-Mg" x="-4" y="7"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbEloescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//Team/AtGroup"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbElouscEeORaLSloIt-Mg" points="[0, 0, 66, 60]$[-66, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbxwQuscEeORaLSloIt-Mg" id="(0.25396825396825395,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbxwQ-scEeORaLSloIt-Mg" id="(0.6017699115044248,0.9180327868852459)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbGa0OscEeORaLSloIt-Mg" type="4002" source="_farkHOscEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbHB4OscEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbHB4escEeORaLSloIt-Mg" x="-17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbHB4uscEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbHB4-scEeORaLSloIt-Mg" x="-10" y="5"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbGa0escEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//Match/Home"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbGa0uscEeORaLSloIt-Mg" points="[0, 0, 56, -60]$[-56, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbyXUuscEeORaLSloIt-Mg" id="(0.3978494623655914,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbyXU-scEeORaLSloIt-Mg" id="(0.5476190476190477,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbIQAOscEeORaLSloIt-Mg" type="4002" source="_farkHOscEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbJeIOscEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbJeIescEeORaLSloIt-Mg" x="-3" y="-5"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbJeIuscEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbJeI-scEeORaLSloIt-Mg" x="-30" y="1"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbIQAescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//Match/Away"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbIQAuscEeORaLSloIt-Mg" points="[0, 0, 51, -60]$[-51, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbyXUOscEeORaLSloIt-Mg" id="(0.1935483870967742,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbyXUescEeORaLSloIt-Mg" id="(0.4365079365079365,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbKsQOscEeORaLSloIt-Mg" type="4004" source="_fasLKescEeORaLSloIt-Mg" target="_farkHOscEeORaLSloIt-Mg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbKsQescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbKsQuscEeORaLSloIt-Mg" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fby-Y-scEeORaLSloIt-Mg" id="(0.6016949152542372,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fby-ZOscEeORaLSloIt-Mg" id="(0.4946236559139785,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbNvkOscEeORaLSloIt-Mg" type="4004" source="_fasyM-scEeORaLSloIt-Mg" target="_farkHOscEeORaLSloIt-Mg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbNvkescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbNvkuscEeORaLSloIt-Mg" points="[0, 0, 123, -68]$[-123, 68, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbzlcOscEeORaLSloIt-Mg" id="(0.3277310924369748,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbzlcescEeORaLSloIt-Mg" id="(0.7419354838709677,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbQL0OscEeORaLSloIt-Mg" type="4002" source="_fasyP-scEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbQL0-scEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbQL1OscEeORaLSloIt-Mg" x="-11" y="-4"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbQL1escEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbQL1uscEeORaLSloIt-Mg" x="-14"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbQL0escEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//Group/FirstTeam"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbQL0uscEeORaLSloIt-Mg" points="[0, 0, 21, -164]$[-21, 164, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbwiIuscEeORaLSloIt-Mg" id="(0.39869281045751637,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbxJMOscEeORaLSloIt-Mg" id="(0.17391304347826086,0.01282051282051282)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fbSBAOscEeORaLSloIt-Mg" type="4002" source="_fasyP-scEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbSBA-scEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbSBBOscEeORaLSloIt-Mg" x="-41" y="3"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fbSBBescEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fbSBBuscEeORaLSloIt-Mg" x="-5" y="2"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fbSBAescEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//Group/SecondTeam"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fbSBAuscEeORaLSloIt-Mg" points="[0, 0, -134, -60]$[134, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbwiIOscEeORaLSloIt-Mg" id="(0.19607843137254902,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fbwiIescEeORaLSloIt-Mg" id="(0.06349206349206349,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_JeBCAOsoEeORaLSloIt-Mg" type="4002" source="_fasyM-scEeORaLSloIt-Mg" target="_farkEOscEeORaLSloIt-Mg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JeBpEOsoEeORaLSloIt-Mg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_JeBpEesoEeORaLSloIt-Mg" x="18" y="-12"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_JeBpEusoEeORaLSloIt-Mg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_JeBpE-soEeORaLSloIt-Mg" x="-13" y="-21"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JeBCAesoEeORaLSloIt-Mg" fontName="微软雅黑"/>
+    <element xmi:type="ecore:EReference" href="wc2014.ecore#//EliminationMatch/Winner"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JeBCAusoEeORaLSloIt-Mg" points="[-1, 1, 262, -383]$[-258, 384, 5, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JeHIoOsoEeORaLSloIt-Mg" id="(0.9159663865546218,0.9811320754716981)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JeHvsOsoEeORaLSloIt-Mg" id="(0.9901185770750988,0.8461538461538461)"/>
+  </edges>
+</notation:Diagram>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated wc2014 -->
+      <package
+            uri="http://edu.thu.ggxx.hellobrazil.wc2014/1.0"
+            class="edu.thu.ggxx.hellobrazil.wc2014.Wc2014Package"
+            genModel="model/wc2014.genmodel"/>
+   </extension>
+
+</plugin>

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gmf_dashboard/domainGenerationModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.genmodel
+gmf_dashboard/domainModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.ecore
+gmf_dashboard/generationModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.gmfgen
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.gmfgraph
+gmf_dashboard/mappingModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.gmfmap
+gmf_dashboard/toolingDefinitionModel=platform\:/resource/edu.thu.ggxx.hellobrazil/model/wc2014.gmftool
