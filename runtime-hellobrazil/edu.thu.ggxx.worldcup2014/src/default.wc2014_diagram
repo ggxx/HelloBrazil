@@ -665,6 +665,21 @@
     <element xmi:type="wc2014:Team" href="default.wc2014#//@teams.61"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t4ChUe2UEeOsod24a09DBQ" x="1800" y="1588"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_UyVukO2cEeONT8y7bmZYMg" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UyWVoe2cEeONT8y7bmZYMg" type="5002"/>
+    <element xmi:type="wc2014:Team" href="default.wc2014#//@teams.62"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UyWVoO2cEeONT8y7bmZYMg" x="2064" y="1614"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ZhEukO2cEeONT8y7bmZYMg" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZhFVoO2cEeONT8y7bmZYMg" type="5002"/>
+    <element xmi:type="wc2014:Team" href="default.wc2014#//@teams.63"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZhEuke2cEeONT8y7bmZYMg" x="2233" y="1612"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bNyIAO2cEeONT8y7bmZYMg" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_bNyvEO2cEeONT8y7bmZYMg" type="5001"/>
+    <element xmi:type="wc2014:EliminationMatch" href="default.wc2014#//@matches.63"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bNyIAe2cEeONT8y7bmZYMg" x="2127" y="1754"/>
+  </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_bM8_Ye2NEeOsod24a09DBQ"/>
   <element xmi:type="wc2014:WorldCup" href="default.wc2014#/"/>
   <edges xmi:type="notation:Connector" xmi:id="_OIh04O2PEeOsod24a09DBQ" type="4002" source="_HMdaoO2PEeOsod24a09DBQ" target="_KJelYO2PEeOsod24a09DBQ">
@@ -1761,5 +1776,16 @@
     <element xsi:nil="true"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_r6CHEu2VEeOsod24a09DBQ" points="[32, 13, -104, -46]$[136, 52, 0, -7]"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r6D8QO2VEeOsod24a09DBQ" id="(0.5,0.175)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_dFpokO2cEeONT8y7bmZYMg" type="4002" source="_bNyIAO2cEeONT8y7bmZYMg" target="_UyVukO2cEeONT8y7bmZYMg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_dFpoke2cEeONT8y7bmZYMg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dFpoku2cEeONT8y7bmZYMg" points="[-14, -20, 84, 120]$[-97, -160, 1, -20]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_disJ4O2cEeONT8y7bmZYMg" type="4004" source="_bNyIAO2cEeONT8y7bmZYMg" target="_ZhEukO2cEeONT8y7bmZYMg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_disJ4e2cEeONT8y7bmZYMg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_disJ4u2cEeONT8y7bmZYMg" points="[1, -3, -48, 122]$[48, -105, -1, 20]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_divNMO2cEeONT8y7bmZYMg" id="(0.7,0.075)"/>
   </edges>
 </notation:Diagram>

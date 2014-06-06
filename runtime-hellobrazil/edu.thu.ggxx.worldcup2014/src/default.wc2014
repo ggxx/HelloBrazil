@@ -62,6 +62,8 @@
   <teams Country="W59"/>
   <teams Country="W61"/>
   <teams Country="W62"/>
+  <teams Country="L61"/>
+  <teams Country="L62"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.1" Id="1" MatchDate="2014-06-13T04:00:00.000+0800" Scores=""/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.2" Away="//@teams.3" Id="2" MatchDate="2014-06-14T00:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.2" Id="17" MatchDate="2014-06-18T03:00:00.000+0800"/>
@@ -125,6 +127,7 @@
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.58" Away="//@teams.56" Id="61" MatchDate="2014-07-09T04:00:00.000+0800" Winner="//@teams.60"/>
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.59" Away="//@teams.57" Id="62" MatchDate="2014-07-10T04:00:00.000+0800" Winner="//@teams.61"/>
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.60" Away="//@teams.61" Id="FINAL" MatchDate="2014-07-14T03:00:00.000+0800"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.62" Away="//@teams.63" Id="3RD PLACE" MatchDate="2014-07-13T04:00:00.000+0800"/>
   <groups GroupName="A" FirstTeam="//@teams.32" SecondTeam="//@teams.33"/>
   <groups GroupName="B" FirstTeam="//@teams.34" SecondTeam="//@teams.35"/>
   <groups GroupName="C" FirstTeam="//@teams.36" SecondTeam="//@teams.37"/>
