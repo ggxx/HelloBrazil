@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<wc2014:WorldCup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wc2014="http://edu.thu.ggxx.hellobrazil.wc2014/1.0">
+<wc2014:WorldCup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wc2014="http://edu.thu.ggxx.hellobrazil.wc2014/1.0" Year="2014">
   <teams Country="BRAZIL" AtGroup="//@groups.0"/>
   <teams Country="CROATIA" AtGroup="//@groups.0"/>
   <teams Country="MEXICO" AtGroup="//@groups.0"/>
@@ -64,7 +64,7 @@
   <teams Country="W62"/>
   <teams Country="L61"/>
   <teams Country="L62"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.1" Id="1" MatchDate="2014-06-13T04:00:00.000+0800" Scores=""/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.1" Id="1" MatchDate="2014-06-13T04:00:00.000+0800" Scores="" Stadium=""/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.2" Away="//@teams.3" Id="2" MatchDate="2014-06-14T00:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.2" Id="17" MatchDate="2014-06-18T03:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.3" Away="//@teams.1" Id="18" MatchDate="2014-06-19T06:00:00.000+0800"/>
