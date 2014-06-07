@@ -99,7 +99,7 @@
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.21" Away="//@teams.23" Id="28" MatchDate="2014-06-22T06:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.17" Away="//@teams.19" Id="26" MatchDate="2014-06-21T06:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.25" Away="//@teams.27" Id="30" MatchDate="2014-06-23T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.5" Id="20" MatchDate="2014-06-14T00:00:00.000+0800"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.5" Id="20" MatchDate="2014-06-19T00:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.15" Away="//@teams.12" Id="39" MatchDate="2014-06-25T04:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.31" Away="//@teams.28" Id="47" MatchDate="2014-06-27T04:00:00.000+0800"/>
   <matches xsi:type="wc2014:GroupMatch" Home="//@teams.23" Away="//@teams.20" Id="43" MatchDate="2014-06-26T00:00:00.000+0800"/>
@@ -126,8 +126,8 @@
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.49" Away="//@teams.51" Id="60" MatchDate="2014-07-06T04:00:00.000+0800" Winner="//@teams.57"/>
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.58" Away="//@teams.56" Id="61" MatchDate="2014-07-09T04:00:00.000+0800" Winner="//@teams.60"/>
   <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.59" Away="//@teams.57" Id="62" MatchDate="2014-07-10T04:00:00.000+0800" Winner="//@teams.61"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.60" Away="//@teams.61" Id="FINAL" MatchDate="2014-07-14T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.62" Away="//@teams.63" Id="3RD PLACE" MatchDate="2014-07-13T04:00:00.000+0800"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.60" Away="//@teams.61" Id="64" MatchDate="2014-07-14T03:00:00.000+0800"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.62" Away="//@teams.63" Id="63" MatchDate="2014-07-13T04:00:00.000+0800"/>
   <groups GroupName="A" FirstTeam="//@teams.32" SecondTeam="//@teams.33"/>
   <groups GroupName="B" FirstTeam="//@teams.34" SecondTeam="//@teams.35"/>
   <groups GroupName="C" FirstTeam="//@teams.36" SecondTeam="//@teams.37"/>
