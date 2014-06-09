@@ -97,7 +97,8 @@ public class Wc2014Example {
 								for (EObject obj : eObject.eContents()) {
 									if (obj instanceof Match) {
 										Match match = (Match) obj;
-										String line = match.getId() + "|" + match.getHome().getCountry() + "|" + match.getAway().getCountry() + "|" + match.getMatchDate().getTime();
+										String line = match.getId() + "|" + match.getHome().getCountry() + "|" + match.getAway().getCountry() + "|" + match.getMatchDate().getTime() + "|"
+												+ match.getStadium();
 										out.write(line + "\r\n");
 									}
 								}

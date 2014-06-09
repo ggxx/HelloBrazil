@@ -45,6 +45,7 @@ public class MatchAdapter extends ArrayAdapter<Match> {
             viewWrapper.getMatchId().setText(match.getId());
             viewWrapper.getMatchTeams().setText(match.getHome() + " vs " + match.getAway());
             viewWrapper.getMatchDatetime().setText(simpleDateFormat.format(match.getDatetime()));
+            viewWrapper.getMatchStadium().setText(match.getStadium());
         }
         return convertView;
     }

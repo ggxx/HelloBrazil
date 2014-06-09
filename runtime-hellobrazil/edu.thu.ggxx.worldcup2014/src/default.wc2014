@@ -64,70 +64,70 @@
   <teams Country="W62"/>
   <teams Country="L61"/>
   <teams Country="L62"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.1" Id="1" MatchDate="2014-06-13T04:00:00.000+0800" Scores="" Stadium=""/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.2" Away="//@teams.3" Id="2" MatchDate="2014-06-14T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.2" Id="17" MatchDate="2014-06-18T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.3" Away="//@teams.1" Id="18" MatchDate="2014-06-19T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.3" Away="//@teams.0" Id="33" MatchDate="2014-06-24T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.1" Away="//@teams.2" Id="34" MatchDate="2014-06-24T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.10" Away="//@teams.11" Id="6" MatchDate="2014-06-15T09:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.8" Away="//@teams.10" Id="21" MatchDate="2014-06-20T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.11" Away="//@teams.9" Id="22" MatchDate="2014-06-20T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.11" Away="//@teams.8" Id="37" MatchDate="2014-06-25T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.8" Away="//@teams.9" Id="5" MatchDate="2014-06-15T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.9" Away="//@teams.10" Id="38" MatchDate="2014-06-25T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.12" Away="//@teams.13" Id="7" MatchDate="2014-06-15T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.28" Away="//@teams.29" Id="15" MatchDate="2014-06-18T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.20" Away="//@teams.21" Id="11" MatchDate="2014-06-16T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.16" Away="//@teams.17" Id="9" MatchDate="2014-06-16T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.24" Away="//@teams.25" Id="13" MatchDate="2014-06-17T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.4" Away="//@teams.5" Id="3" MatchDate="2014-06-14T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.14" Away="//@teams.15" Id="8" MatchDate="2014-06-15T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.30" Away="//@teams.31" Id="16" MatchDate="2014-06-18T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.22" Away="//@teams.23" Id="12" MatchDate="2014-06-17T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.18" Away="//@teams.19" Id="10" MatchDate="2014-06-16T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.26" Away="//@teams.27" Id="14" MatchDate="2014-06-17T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.6" Away="//@teams.7" Id="4" MatchDate="2014-06-14T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.12" Away="//@teams.14" Id="23" MatchDate="2014-06-20T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.28" Away="//@teams.30" Id="31" MatchDate="2014-06-23T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.20" Away="//@teams.22" Id="27" MatchDate="2014-06-22T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.16" Away="//@teams.18" Id="25" MatchDate="2014-06-21T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.24" Away="//@teams.26" Id="29" MatchDate="2014-06-22T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.4" Away="//@teams.6" Id="19" MatchDate="2014-06-19T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.13" Away="//@teams.15" Id="24" MatchDate="2014-06-21T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.29" Away="//@teams.31" Id="32" MatchDate="2014-06-23T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.21" Away="//@teams.23" Id="28" MatchDate="2014-06-22T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.17" Away="//@teams.19" Id="26" MatchDate="2014-06-21T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.25" Away="//@teams.27" Id="30" MatchDate="2014-06-23T06:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.5" Id="20" MatchDate="2014-06-19T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.15" Away="//@teams.12" Id="39" MatchDate="2014-06-25T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.31" Away="//@teams.28" Id="47" MatchDate="2014-06-27T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.23" Away="//@teams.20" Id="43" MatchDate="2014-06-26T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.19" Away="//@teams.16" Id="41" MatchDate="2014-06-26T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.27" Away="//@teams.24" Id="45" MatchDate="2014-06-27T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.4" Id="35" MatchDate="2014-06-24T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.13" Away="//@teams.14" Id="40" MatchDate="2014-06-25T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.29" Away="//@teams.30" Id="48" MatchDate="2014-06-27T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.21" Away="//@teams.22" Id="44" MatchDate="2014-06-26T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.17" Away="//@teams.18" Id="42" MatchDate="2014-06-26T04:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.25" Away="//@teams.26" Id="46" MatchDate="2014-06-27T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.5" Away="//@teams.6" Id="36" MatchDate="2014-06-24T00:00:00.000+0800"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.32" Away="//@teams.35" Id="49" MatchDate="2014-06-29T00:00:00.000+0800" Winner="//@teams.48"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.36" Away="//@teams.39" Id="50" MatchDate="2014-06-29T04:00:00.000+0800" Winner="//@teams.50"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.34" Away="//@teams.33" Id="51" MatchDate="2014-06-30T00:00:00.000+0800" Winner="//@teams.49"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.38" Away="//@teams.37" Id="52" MatchDate="2014-06-30T04:00:00.000+0800" Winner="//@teams.51"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.40" Away="//@teams.43" Id="53" MatchDate="2014-07-01T00:00:00.000+0800" Winner="//@teams.52"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.44" Away="//@teams.47" Id="54" MatchDate="2014-07-01T04:00:00.000+0800" Winner="//@teams.55"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.42" Away="//@teams.41" Id="55" MatchDate="2014-07-02T00:00:00.000+0800" Winner="//@teams.53"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.46" Away="//@teams.45" Id="56" MatchDate="2014-07-02T04:00:00.000+0800" Winner="//@teams.54"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.52" Away="//@teams.55" Id="57" MatchDate="2014-07-05T00:00:00.000+0800" Winner="//@teams.58"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.48" Away="//@teams.50" Id="58" MatchDate="2014-07-05T04:00:00.000+0800" Winner="//@teams.56"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.53" Away="//@teams.54" Id="59" MatchDate="2014-07-06T00:00:00.000+0800" Winner="//@teams.59"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.49" Away="//@teams.51" Id="60" MatchDate="2014-07-06T04:00:00.000+0800" Winner="//@teams.57"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.58" Away="//@teams.56" Id="61" MatchDate="2014-07-09T04:00:00.000+0800" Winner="//@teams.60"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.59" Away="//@teams.57" Id="62" MatchDate="2014-07-10T04:00:00.000+0800" Winner="//@teams.61"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.60" Away="//@teams.61" Id="64" MatchDate="2014-07-14T03:00:00.000+0800"/>
-  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.62" Away="//@teams.63" Id="63" MatchDate="2014-07-13T04:00:00.000+0800"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.1" Id="1" MatchDate="2014-06-13T04:00:00.000+0800" Scores="" Stadium="Sao Paulo"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.2" Away="//@teams.3" Id="2" MatchDate="2014-06-14T00:00:00.000+0800" Stadium="Natal"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.0" Away="//@teams.2" Id="17" MatchDate="2014-06-18T03:00:00.000+0800" Stadium="Fortaleza"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.3" Away="//@teams.1" Id="18" MatchDate="2014-06-19T06:00:00.000+0800" Stadium="Manaus"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.3" Away="//@teams.0" Id="33" MatchDate="2014-06-24T04:00:00.000+0800" Stadium="Brasilia"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.1" Away="//@teams.2" Id="34" MatchDate="2014-06-24T04:00:00.000+0800" Stadium="Recife"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.10" Away="//@teams.11" Id="6" MatchDate="2014-06-15T09:00:00.000+0800" Stadium="Recife"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.8" Away="//@teams.10" Id="21" MatchDate="2014-06-20T00:00:00.000+0800" Stadium="Brasilia"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.11" Away="//@teams.9" Id="22" MatchDate="2014-06-20T06:00:00.000+0800" Stadium="Natal"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.11" Away="//@teams.8" Id="37" MatchDate="2014-06-25T04:00:00.000+0800" Stadium="Cuiaba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.8" Away="//@teams.9" Id="5" MatchDate="2014-06-15T00:00:00.000+0800" Stadium="Belo Horizonte"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.9" Away="//@teams.10" Id="38" MatchDate="2014-06-25T04:00:00.000+0800" Stadium="Fortaleza"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.12" Away="//@teams.13" Id="7" MatchDate="2014-06-15T03:00:00.000+0800" Stadium="Fortaleza"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.28" Away="//@teams.29" Id="15" MatchDate="2014-06-18T00:00:00.000+0800" Stadium="Belo Horizonte"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.20" Away="//@teams.21" Id="11" MatchDate="2014-06-16T06:00:00.000+0800" Stadium="Rio De Janeiro"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.16" Away="//@teams.17" Id="9" MatchDate="2014-06-16T00:00:00.000+0800" Stadium="Brasilia"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.24" Away="//@teams.25" Id="13" MatchDate="2014-06-17T00:00:00.000+0800" Stadium="Salvador"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.4" Away="//@teams.5" Id="3" MatchDate="2014-06-14T03:00:00.000+0800" Stadium="Salvador"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.14" Away="//@teams.15" Id="8" MatchDate="2014-06-15T06:00:00.000+0800" Stadium="Manaus"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.30" Away="//@teams.31" Id="16" MatchDate="2014-06-18T06:00:00.000+0800" Stadium="Cuiaba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.22" Away="//@teams.23" Id="12" MatchDate="2014-06-17T03:00:00.000+0800" Scores="" Stadium="Curitiba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.18" Away="//@teams.19" Id="10" MatchDate="2014-06-16T03:00:00.000+0800" Stadium="Proto Alegre"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.26" Away="//@teams.27" Id="14" MatchDate="2014-06-17T06:00:00.000+0800" Stadium="Natal"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.6" Away="//@teams.7" Id="4" MatchDate="2014-06-14T06:00:00.000+0800" Stadium="Cuiaba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.12" Away="//@teams.14" Id="23" MatchDate="2014-06-20T03:00:00.000+0800" Scores="" Stadium="Sao Paulo"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.28" Away="//@teams.30" Id="31" MatchDate="2014-06-23T00:00:00.000+0800" Stadium="Rio De Janeiro"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.20" Away="//@teams.22" Id="27" MatchDate="2014-06-22T00:00:00.000+0800" Stadium="Belo Horizonte"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.16" Away="//@teams.18" Id="25" MatchDate="2014-06-21T03:00:00.000+0800" Stadium="Salvador"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.24" Away="//@teams.26" Id="29" MatchDate="2014-06-22T03:00:00.000+0800" Stadium="Fortaleza"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.4" Away="//@teams.6" Id="19" MatchDate="2014-06-19T03:00:00.000+0800" Stadium="Rio De Janeiro"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.15" Away="//@teams.13" Id="24" MatchDate="2014-06-21T00:00:00.000+0800" Stadium="Recife"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.31" Away="//@teams.29" Id="32" MatchDate="2014-06-23T03:00:00.000+0800" Stadium="Proto Alegre"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.23" Away="//@teams.21" Id="28" MatchDate="2014-06-22T06:00:00.000+0800" Stadium="Cuiaba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.17" Away="//@teams.19" Id="26" MatchDate="2014-06-21T06:00:00.000+0800" Stadium="Curitiba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.27" Away="//@teams.25" Id="30" MatchDate="2014-06-23T06:00:00.000+0800" Stadium="Manaus"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.5" Id="20" MatchDate="2014-06-19T00:00:00.000+0800" Stadium="Proto Alegre"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.15" Away="//@teams.12" Id="39" MatchDate="2014-06-25T00:00:00.000+0800" Stadium="Natal"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.31" Away="//@teams.28" Id="47" MatchDate="2014-06-27T04:00:00.000+0800" Stadium="Sao Paulo"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.23" Away="//@teams.20" Id="43" MatchDate="2014-06-26T00:00:00.000+0800" Stadium="Proto Alegre"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.19" Away="//@teams.16" Id="41" MatchDate="2014-06-26T04:00:00.000+0800" Scores="" Stadium="Manaus"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.27" Away="//@teams.24" Id="45" MatchDate="2014-06-27T00:00:00.000+0800" Scores="" Stadium="Recife"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.7" Away="//@teams.4" Id="35" MatchDate="2014-06-24T00:00:00.000+0800" Stadium="Curitiba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.13" Away="//@teams.14" Id="40" MatchDate="2014-06-25T00:00:00.000+0800" Scores="" Stadium="Belo Horizonte"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.29" Away="//@teams.30" Id="48" MatchDate="2014-06-27T04:00:00.000+0800" Stadium="Curitiba"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.21" Away="//@teams.22" Id="44" MatchDate="2014-06-26T00:00:00.000+0800" Stadium="Salvador"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.17" Away="//@teams.18" Id="42" MatchDate="2014-06-26T04:00:00.000+0800" Stadium="Rio De Janeiro"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.25" Away="//@teams.26" Id="46" MatchDate="2014-06-27T00:00:00.000+0800" Stadium="Brasilia"/>
+  <matches xsi:type="wc2014:GroupMatch" Home="//@teams.5" Away="//@teams.6" Id="36" MatchDate="2014-06-24T00:00:00.000+0800" Scores="" Stadium="Sao Paulo"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.32" Away="//@teams.35" Id="49" MatchDate="2014-06-29T00:00:00.000+0800" Stadium="Belo Horizonte" Winner="//@teams.48"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.36" Away="//@teams.39" Id="50" MatchDate="2014-06-29T04:00:00.000+0800" Stadium="Rio De Janeiro" Winner="//@teams.50"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.34" Away="//@teams.33" Id="51" MatchDate="2014-06-30T00:00:00.000+0800" Stadium="Fortaleza" Winner="//@teams.49"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.38" Away="//@teams.37" Id="52" MatchDate="2014-06-30T04:00:00.000+0800" Stadium="Recife" Winner="//@teams.51"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.40" Away="//@teams.43" Id="53" MatchDate="2014-07-01T00:00:00.000+0800" Stadium="Brasilia" Winner="//@teams.52"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.44" Away="//@teams.47" Id="54" MatchDate="2014-07-01T04:00:00.000+0800" Stadium="Proto Alegre" Winner="//@teams.55"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.42" Away="//@teams.41" Id="55" MatchDate="2014-07-02T00:00:00.000+0800" Stadium="Sao Paulo" Winner="//@teams.53"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.46" Away="//@teams.45" Id="56" MatchDate="2014-07-02T04:00:00.000+0800" Stadium="Salvador" Winner="//@teams.54"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.52" Away="//@teams.55" Id="57" MatchDate="2014-07-05T00:00:00.000+0800" Stadium="Fortaleza" Winner="//@teams.58"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.48" Away="//@teams.50" Id="58" MatchDate="2014-07-05T04:00:00.000+0800" Stadium="Rio De Janeiro" Winner="//@teams.56"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.53" Away="//@teams.54" Id="59" MatchDate="2014-07-06T00:00:00.000+0800" Stadium="Salvador" Winner="//@teams.59"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.49" Away="//@teams.51" Id="60" MatchDate="2014-07-06T04:00:00.000+0800" Stadium="Brasilia" Winner="//@teams.57"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.58" Away="//@teams.56" Id="61" MatchDate="2014-07-09T04:00:00.000+0800" Stadium="Belo Horizonte" Winner="//@teams.60"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.59" Away="//@teams.57" Id="62" MatchDate="2014-07-10T04:00:00.000+0800" Stadium="Sao Paulo" Winner="//@teams.61"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.60" Away="//@teams.61" Id="64" MatchDate="2014-07-14T03:00:00.000+0800" Stadium="Rio De Janeiro"/>
+  <matches xsi:type="wc2014:EliminationMatch" Home="//@teams.62" Away="//@teams.63" Id="63" MatchDate="2014-07-13T04:00:00.000+0800" Stadium="Brasilia"/>
   <groups GroupName="A" FirstTeam="//@teams.32" SecondTeam="//@teams.33"/>
   <groups GroupName="B" FirstTeam="//@teams.34" SecondTeam="//@teams.35"/>
   <groups GroupName="C" FirstTeam="//@teams.36" SecondTeam="//@teams.37"/>

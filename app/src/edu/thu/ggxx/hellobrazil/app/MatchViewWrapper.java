@@ -17,6 +17,7 @@ public class MatchViewWrapper {
     private TextView textView_matchId;
     private TextView textView_matchTeams;
     private TextView textView_matchDatetime;
+    private TextView textView_stadium;
 
     public MatchViewWrapper(View view) {
         this.view = view;
@@ -53,5 +54,12 @@ public class MatchViewWrapper {
             this.textView_matchDatetime = (TextView) this.view.findViewById(R.id.match_datetime);
         }
         return this.textView_matchDatetime;
+    }
+
+    public TextView getMatchStadium(){
+        if (this.textView_stadium == null) {
+            this.textView_stadium = (TextView) this.view.findViewById(R.id.match_stadium);
+        }
+        return this.textView_stadium;
     }
 }
