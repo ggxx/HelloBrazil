@@ -43,7 +43,11 @@ public class MatchAdapter extends ArrayAdapter<Match> {
         if (match != null) {
             viewWrapper.setId(match.getId());
             viewWrapper.getMatchId().setText(match.getId());
-            viewWrapper.getMatchTeams().setText(match.getHome() + " vs " + match.getAway());
+            if (match.getScores() != null && !match.getScores().equals("")) {
+                viewWrapper.getMatchTeams().setText(match.getHome() + " " + match.getScores() + " " + match.getAway());
+            } else {
+                viewWrapper.getMatchTeams().setText(match.getHome() + " vs " + match.getAway());
+            }
             viewWrapper.getMatchDatetime().setText(simpleDateFormat.format(match.getDatetime()));
             viewWrapper.getMatchStadium().setText(match.getStadium());
         }

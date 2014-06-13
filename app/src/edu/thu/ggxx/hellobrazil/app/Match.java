@@ -15,6 +15,7 @@ public class Match {
     String away;
     Date datetime;
     String stadium;
+    String scores;
 
     public String getId() {
         return id;
@@ -54,5 +55,13 @@ public class Match {
 
     public void setStadium(String stadium) {
         this.stadium = stadium;
+    }
+
+    public String getScores() {
+        return scores;
+    }
+
+    public void setScores(String scores) {
+        this.scores = scores;
     }
 }

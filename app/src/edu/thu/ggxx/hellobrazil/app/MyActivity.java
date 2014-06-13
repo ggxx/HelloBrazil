@@ -95,6 +95,9 @@ public class MyActivity extends Activity {
                     match.setAway(tmp[2]);
                     match.setDatetime(new Date(Long.parseLong(tmp[3])));
                     match.setStadium(tmp[4]);
+                    if (tmp.length > 5) {
+                        match.setScores(tmp[5]);
+                    }
                     matches.add(match);
                 }
                 buffreader.close();
